@@ -28,4 +28,4 @@ De gebouwen aangepast naar aanleiding van de correcties.</br>
 
 Meeting met Wim van Jazz Museum Rotterdam </br>
 Uitnodiging Digital publishing toolkit mini hackathon. 27 maart </br>
-Briefpapier + envelop CoE + Rotterdam</br>
+Briefpapier + envelop CoE + Rotterdam</br> 
