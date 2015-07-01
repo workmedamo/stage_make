@@ -1,9 +1,8 @@
-# Colofon 
+# colofon 
+**Stageverslag Medamo**  
+**Ciska Swaak**  
 
-**Stageverslag Medamo** </br>
-**Ciska Swaak** </br>
-
-**Stagebedrijf:** Medamo    
+**Stagebedrijf:** Medamo  
 **Adres:** Statenweg 63c, Rotterdam    
 
 **website:** [medamo.nl](http://medamo.nl/)    
@@ -21,3 +20,10 @@
 
 **website:** [ciskaswaak.nl](http://ciskaswaak.nl/) 
 
+**Druk:** Pumbo.nl print on demand.  
+**Papier:** 90 grs Romandruk getint.
+**Font:**  (Nader te bepalen tijdens ontwerp, verschild met epub en longread) 
+
+Een .pdf en een .epub van (TITEL STAGEVERSLAG) zijn te downloaden via  [ciskaswaak.nl/MEDAMO](http://ciskaswaak.nl/MEDAMO). Op deze pagina is ook een link te vinden naar de online longread van (TITEL STAGEVERSLAG).
+
+(Copyright licentie invoegen)

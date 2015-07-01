@@ -1,7 +1,9 @@
-# Inhoud
-1. Inleiding 
+# inhoud 
+1. Inleiding  
 2. Doelstellingen
 3. Medamo
 4. Log 
-5. Beoordeling
-6. Reflectie
+5. Portfolio
+6. Beoordeling
+7. Reflectie
+8. Nawoord

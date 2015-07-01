@@ -1,5 +1,5 @@
 body{
-    font-size:12pt;
+    font-size:10pt;
     background: white;
     color: black;
     font-family: sans;	
@@ -7,7 +7,7 @@ body{
 
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: monospace;
+    font-family: sans;
     font-weight: 300;
     hyphens: none !important;
     -moz-hyphens: none !important;
@@ -31,8 +31,7 @@ a.footnoteRef{
 }
 
 img {
-    max-width: 98%;
-    max-height: 98%;
+    max-width: 600px;
     width: auto;
     height: auto;
 }

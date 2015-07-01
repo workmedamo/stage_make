@@ -14,7 +14,6 @@ folders:
 	mkdir md/imgs/ ; \
 	mkdir icml/ ; \
 	mkdir lib/ ; \
-	mkdir scribus_html/ ;
 
 markdown:$(alldocx) # convert docx to md
 	for i in $(alldocx) ; \
@@ -39,17 +38,6 @@ icml: book.md
 		-o $$icml ; \
 	done
 
-scribus: $(allmarkdown)
-	for i in $(allmarkdown) ; \
-	do html=`basename $$i .md`.html ; \
-	./scripts/md_stripmetada.py $$i > md/tmp.md ; \
-	pandoc md/tmp.md \
-		--from=markdown \
-		--to=html5 \
-		--template=template.scribus \
-		-o scribus_html/$$html ; \
-	done
-
 book.md: clean $(allmarkdown)
 	for i in $(allmarkdown) ; \
 	do ./scripts/md_unique_footnotes.py $$i  > md/tmp.md ; \
@@ -59,7 +47,6 @@ ifeq (True, $(django))
 	echo $(django) ; \
          ./scripts/md_urlize.py md/book.md
 endif
-
 
 
 book.epub: clean book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
@@ -75,13 +62,18 @@ book.epub: clean book.md epub/metadata.xml epub/styles.epub.css epub/cover.jpg
 		--toc-depth=1 \
 		-o ../book.epub \
 		book.md ; \
-		cd .. ; \
-		done
+		cd .. ; 
 
-#		python scripts/epub_process.py book.epub ; \
-#		done
-# Add custom font:
-# --epub-embed-font=lib/UbuntuMono-B.ttf \
+
+webpage:  clean book.md 	
+	cd md && pandoc \
+		--from markdown \
+		--to html5 \
+		--self-contained \
+        -o ../webpage.html \
+        book.md ;\
+        cd .. ;
+
 
 clean:  # remove outputs
 	rm -f md/book.md  
