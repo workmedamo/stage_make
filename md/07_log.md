@@ -67,9 +67,8 @@ Posters*
 - Ontwerp uitnodiging Digital Publishin Toolkit  
 - Briefpapier en envelop ontwerp  RDM CoE  en Rotterdam  
 220 x 156  Envelop  
-	
 Rdm Rdam  licht bl  85 0 15 0  
-			donker bl 100 75 0 54 
+donker bl 100 75 0 54 
 
 #8:30 woensdag 04 03 
 - Testprint van het briefpapier voor RDM  
@@ -256,7 +255,7 @@ Visitekaartjes en briefpapier.
  
 >________________
 
-Reflectie op de afgelopen maand
+#Reflectie op de afgelopen maand
 
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
@@ -304,7 +303,7 @@ Ontwerp spandoek / banner Aqualab.
 T/M 22 04 niet  black pages
 ——————**
 
-#08:30 donderdag 23 04 
+#8:30 donderdag 23 04 
 - FPO. 
 Correcties.  
 - RDM vouwboot/hoed. 
@@ -348,7 +347,7 @@ Poster aanpassing.
 >
 ________________
 
-Reflectie op de afgelopen maand
+#Reflectie op de afgelopen maand
 ________________
 >
 
@@ -513,7 +512,7 @@ Onderzoek naar wat er al gedaan is aan campagnes voor veiligheid , beveiliging.
 >
 ________________
 
-Reflectie op de afgelopen maand
+#Reflectie op de afgelopen maand
 
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
@@ -714,7 +713,7 @@ Ontwerp inzending Medamo.
 >
 ___________________________________
 
-Reflectie op de afgelopen maand
+#Reflectie op de afgelopen maand
 
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
@@ -742,14 +741,56 @@ Ontwerp inzending Medamo.
 Aan de hand van de wireframes van Punpixel website ontwerp. 
 
 
+#8:30 dinsdag 07 07
+- RDM.  
+Evenementen borchure.  
+Illustratie isometrisch gebouw Droogdok.
+
+#8:30 woensdag 08 07
+- RDM.  
+Evenementen borchure.  
+Plattegrond bovenaanzicht terrein.
+
+#8:30 donderdag 09 07
+- RDM.  
+Evenementen borchure.  
+Plattegrond correcties.
+- Verslag portfolio opties bekeken. 
+
+#8:30 maandag 13 07
+- A.Hak.  
+Jaarverslag. 
+Foto's drukwerk voorbereiden voor druk op fluweel.  
+Engelse tekst plaatsen.  
+- Computer crash.  
+
+#8:30 dinsdag 14 07
+Terugkomdag.  
+
+#8:30 woensdag 15 07
+- A.Hak.   
+Tape omzetten in PMS. 
+- RDM.  
+A3 poster.
+Opzet.   
+- RDM.  
+Plattegrond innovatie dock.  
+Bedrijven plattegrond.  
+Ontwerp.  
+- RDM.  
+twee plattegronden aan elkaar plakken.  
+
+
 >
 ___________________________________
 
-Reflectie op de afgelopen maand
+#Reflectie op de afgelopen maand
 
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
 Wat zou ik de volgende keer anders doen? 
+
+Een stap verder in deze illustratiestijl. 
 
 >
 
