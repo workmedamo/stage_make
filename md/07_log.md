@@ -1,5 +1,3 @@
-—
-
 #13:00 woensdag 25 02 
 - Proefdraaien  
 - Manier bedenken voor de RDM Campus overzichts kaart.  
@@ -253,15 +251,14 @@ Voorbereiden presentatie voor de terugkomdag.
 Visitekaartjes en briefpapier.   
 
  
->________________
+
 
 #Reflectie op de afgelopen maand
 
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
 Wat zou ik de volgende keer anders doen? 
-________________
->
+
 
 
 #8:30 woensdag 01 04 
@@ -344,12 +341,11 @@ Handreiking Illustraties.
 Poster aanpassing.  
 
  
->
-________________
+
 
 #Reflectie op de afgelopen maand
-________________
->
+ wat heb ik geleerd 
+ etc. 
 
 
 #8:30 vrijdag 01 05 
@@ -509,8 +505,7 @@ Onderzoek naar wat er al gedaan is aan campagnes voor veiligheid , beveiliging.
 - André Castro kwam helpen met de digital publishing toolkit installeren en aanpassen aan wat ik ermee wil doen. 
 	
  
->
-________________
+
 
 #Reflectie op de afgelopen maand
 
@@ -529,8 +524,8 @@ Drukwerk voorbereiden
 
 Mail naar jazz museum enz
 
-________________
->
+
+
 
 #8:30 dinsdag 02 06 
 - Jazz Museum Rotterdam.   
@@ -710,8 +705,8 @@ Meedenken voor de structuur en de gebruiksvriendelijkheid van de website aan de 
 - Grote Rotterdamse Kunstkalender.  
 Ontwerp inzending Medamo.
 
->
-___________________________________
+
+
 
 #Reflectie op de afgelopen maand
 
@@ -719,7 +714,7 @@ Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
 Wat zou ik de volgende keer anders doen? 
 
->
+
 
 #8:30 woensdag 01 07
 - Medamo 3 jaar!  
@@ -739,6 +734,30 @@ Ontwerp inzending Medamo.
 #8:30 vrijdag 03 07
 - RDC.  
 Aan de hand van de wireframes van Punpixel website ontwerp. 
+
+#8:30 dinsdag 07 07
+- RDM.  
+Droogdok evenementen brochure. 
+Isometrische illustratie droogdok in de zelfde lijn als de onderzeebootloods en overzicht terrein.  
+Adhv. foto's google maps en plattegronden.   
+
+#8:30 woensdag 08 07
+- RDM.  
+Droogdok evenementen brochure. 
+De illustratie moest nog wat verfijnt worden.  
+Fotospread opmaken. 
+Een begin maken aan de plattegrond van het terrein van bovenaf in dezelfde lijn als de overige illustraties.  
+
+#8:30 donderdag 09 07
+- RDM.  
+Droogdok evenementen brochure.   
+De plattegrond verfijnt.  
+Correcties op de plattegrond doorgevoerd.  
+Correcties op de borchure doorgevoerd.   
+
+- Een manier bedact om het portfolio onderdeel in mijn verslag op te nemen. 
+ 
+
 
 
 #8:30 dinsdag 07 07
@@ -781,8 +800,82 @@ Ontwerp.
 twee plattegronden aan elkaar plakken.  
 
 
->
-___________________________________
+#8:30 donderdag 16 07
+- RDM Wereldhavendagen.  
+Programma.  
+Vouwdummies.  
+Het moet handig mee te nemen zijn en niet te windgevoelig zijn. Omdat het op de plek vaak aardig waait.  
+Opzet voor het document. 
+Gadget ideeen.  
+Floating keychain.  
+Ansichtkaarten leporello.  
+Tasjes.  
+
+
+#8:30 vrijdag 17 07  
+- RDM Wereldhavendagen.
+- Gadgets 
+- Print maken en vouwmodel maken. 
+
+
+#8:30 dinsdag 21 07  
+- RDM Rotterdam.  
+Innovationdock.  
+Plattegrond bedrijven gedeeldte.  
+Poster.  
+- RDM Wereldhavendagen.  
+Stopmotion, timelapse.  
+Apps onderzoek.  
+Imotion, vine, tijdsverloop.  
+- Fieldtrip op de fiets naar De Nieuwe Grafische.  
+Bezoek kijken naar de drukproeven van de FPO visitekaartjes.  
+- RDM Rotterdam.  
+Innovation dock. 
+Puzzelen met de plaatsing van tekst en pijl op de poster.  
+Test prints, om te kijken welke beter werkt. 
+- Meegekeken naar de indeling van de RDC presentatie voor morgen. Commentaar gegeven wat beter zou kunnen. 
+
+
+#8:30 woensdag 22 07  
+- RDM Wereldhavendagen.
+Poster aanpassen extra pijl erbij. 
+
+
+#8:30 donderdag 23 07  
+- RDM Wereldhavendagen.  
+Programma.  
+Nieuwe vouwdummie leporello.  
+Nieuw document met ruggetje (na overleg met de drukker formaat vergroten, Veenman+).  
+De nieuwe tekst plaatsen.  
+Document ombouwen zodat alle tekst van het programma op een zijde past.  
+Met Barbara gepuzzeld om het meer een event uitstraling te geven.  
+
+#8:30 maandag 27 07  
+- RDM Wereldhavendagen. 
+Programma.  
+Tekst koppen aanpassen.  
+PLattegrond en legenda aangevuld en verbouwd.  
+Icoonen.  
+Voorbeeld afbeeldingen zoeken.  
+Droomauto's, Little bits.  
+
+#8:30 dinsdag 28 07  
+- RDM Wereldhavendagen.  
+Icoonen.  
+Foodtruck, robotics, petfles schieten, Shell eco solar.  
+Met Barbara voor het programma overlegt wat te doen met de achtergrond.  
+Met Loes gekeken naar social media uitdingen. Welke afbeeldingen werken wel wat niet en wat zijn de beste formaten en bestandsformaten om de afbeeldingen op te slaan.  
+- A.Hak.  
+Beleidsverklaring.  
+Woord correctie. 
+- Tandarts.  
+
+#8:30 woensdag 29 07  
+- Laatste stagedag.
+
+
+
+
 
 #Reflectie op de afgelopen maand
 
@@ -792,5 +885,6 @@ Wat zou ik de volgende keer anders doen?
 
 Een stap verder in deze illustratiestijl. 
 
+Mondiger meer commentaar en advies geven. 
 >
 

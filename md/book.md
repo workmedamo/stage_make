@@ -825,6 +825,30 @@ Ontwerp inzending Medamo.
 - RDC.  
 Aan de hand van de wireframes van Punpixel website ontwerp. 
 
+#8:30 dinsdag 07 07
+- RDM.  
+Droogdok evenementen brochure. 
+Isometrische illustratie droogdok in de zelfde lijn als de onderzeebootloods en overzicht terrein.  
+Adhv. foto's google maps en plattegronden.   
+
+#8:30 woensdag 08 07
+- RDM.  
+Droogdok evenementen brochure. 
+De illustratie moest nog wat verfijnt worden.  
+Fotospread opmaken. 
+Een begin maken aan de plattegrond van het terrein van bovenaf in dezelfde lijn als de overige illustraties.  
+
+#8:30 donderdag 09 07
+- RDM.  
+Droogdok evenementen brochure.   
+De plattegrond verfijnt.  
+Correcties op de plattegrond doorgevoerd.  
+Correcties op de borchure doorgevoerd.   
+
+- Een manier bedact om het portfolio onderdeel in mijn verslag op te nemen. 
+ 
+
+
 
 >
 ___________________________________
