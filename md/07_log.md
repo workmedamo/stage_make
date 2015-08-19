@@ -234,7 +234,7 @@ Ontwerp vriendenpas.
 Handzaam formaat dat makkelijk mee te nemen is.   
 
 
-#8:30 vrijdag 17 03 
+#8:30 vrijdag 27 03 
 - Digital publishing toolkit uitnodiging.   
 Correcties.  
 - A.Hak.   
@@ -255,10 +255,19 @@ Visitekaartjes en briefpapier.
 
 #Reflectie op de afgelopen maand
 
-Wat heb ik geleerd?
-Wat ging goed en wat kon beter? 
-Wat zou ik de volgende keer anders doen? 
+De eerste maand is altijd een beetje aftasten hoe de werksfeer is. De manier van werken, de aanpak, de rolverdeling en de taken. Wat er van mij verwacht wordt.    
 
+Wat heb ik geleerd?
+
+Voor het eerst heb ik een briefing van een klant bijgewoont. In dit geval was het Wim van Jazz Museum Rotterdam. Hiervoor heb ik ook een planning gemaakt voor productie. Ook heb ik met bestaande vastgestelde huisstijlelementen nieuwe uitingen ontworpen dit had ik eigenlijk ook nooit op het niveau gedaan wat Medamo heeft (groot commercieel bedrijf). 
+ 
+
+Wat ging goed en wat kon beter? 
+
+Ik kan me eigenlijk best goed aan passen aan de plek waar ik moet werken. Al duurt het meestal wel even voordat ik echt op mn gemak ben en meer durf te vragen en zeggen. Hierdoor had ik ook wat moeite met het uitleggen van wat ik precies bedoel of wil. Er kwamen wat mensen van A.Hak langs en er werdt door Barbara en Loes gevraagd of ik even het idee voor de bierviltjes wilden laten zien. .....  dit kon wat zelfverzekerder. 
+
+Wat zou ik de volgende keer anders doen? 
+Volgende keer zal ik proberen om mijn keuzes sneller en duidelijker te formuleren. 
 
 
 #8:30 woensdag 01 04 
@@ -344,8 +353,15 @@ Poster aanpassing.
 
 
 #Reflectie op de afgelopen maand
- wat heb ik geleerd 
- etc. 
+
+Afgelopen maand was nogal hectisch/(ander woord)
+ 
+Ondanks dat ben ik gewoon weer verder gegaan en heb ik de werkzaamheden weer opgepakt.  
+
+Je moet rekening houden met de positie van waar de uiting gezien wordt. 
+(schiphol borden)
+
+Professioneel gebleven ivm prive. 
 
 
 #8:30 vrijdag 01 05 
@@ -509,15 +525,26 @@ Onderzoek naar wat er al gedaan is aan campagnes voor veiligheid , beveiliging.
 
 #Reflectie op de afgelopen maand
 
+Afgelopen maand ben ik bezig geweest met wat langer lopende opdrachten en een aantal kleine opdrachten tussendoor. Ook kwam André Castro langs om me te helpen met het instaleren van de Digital Publishing toolkit. En gaf een introductie hoe toe te passen. 
+
+
 Wat heb ik geleerd?
-Wat ging goed en wat kon beter? 
-Wat zou ik de volgende keer anders doen? 
-
-
-
-
 Door woorden te gebruiken van de opdrachtgever. Neemt de opdrachtgever sneller iets aan. 
 (bijvoegen e-mail)
+
+Ik had al eens eerder drukwerk voorbereid alleen was dit al zo lang geleden dat ik niet meer precies wist hoe dit ging. Barbara had het met stap voor stap 
+
+
+Wat ging goed en wat kon beter? 
+
+
+Wat zou ik de volgende keer anders doen? 
+
+De volgende keer als ik een foto studio bouw en foto's ga maken een beter plan maken zodat het minder tijd kost. 
+(veel tijd kwijt, volgende keer efficenter, hoe en wat)
+
+
+
 
 
 Drukwerk voorbereiden
@@ -536,9 +563,9 @@ Reminder template.
 
 #8:30 woensdag 03 06 
 - Masterclass van Marc (PUNTPIXEL).  
-Marc kwam uitleg geven over het responsive maken van de website en wat andere code dingen zie lijstje.   
+Marc kwam uitleg geven over het responsive maken van de website en wat andere code dingen zie onderstaand lijstje.   
 
-	(lijstje invoegen)   
+   
 
 Essmedia Queries.com  
 Css Code voor meerdere schermgrootes.  
@@ -710,6 +737,8 @@ Ontwerp inzending Medamo.
 
 #Reflectie op de afgelopen maand
 
+Afgelopen maand kwam Marc van PUNTPIXEL, een van de programmeurs waar medamo mee samenwerkt, langs om mijn een kleine masterclass te geven  
+
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
 Wat zou ik de volgende keer anders doen? 
@@ -872,6 +901,10 @@ Woord correctie.
 
 #8:30 woensdag 29 07  
 - Laatste stagedag.
+- RDM wereldhavendagen.  
+Icoonen: Koffie met bommen, onderzeeboot met film, raket aan de fles en pannen op een foodtruck. 
+
+- S'middags namen ze me mee 
 
 
 
@@ -882,6 +915,9 @@ Woord correctie.
 Wat heb ik geleerd?
 Wat ging goed en wat kon beter? 
 Wat zou ik de volgende keer anders doen? 
+
+
+Ik heb mezelf een stap verder ontwikkeld in de isometrische illustratie stijl voor RDM. 
 
 Een stap verder in deze illustratiestijl. 
 
